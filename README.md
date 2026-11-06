@@ -74,7 +74,7 @@ void loop() {
 - **Button pressed:** Red LED ON, Green LED OFF.
 - **Button released:** Red LED OFF, Green LED ON.
 
-  ![2 LED Push Button Output](Images/2%20led%20push%20button%20output.jpeg)
+  ![Two LED Push Button Output](./2%20led%20push%20button%20output.jpeg)
 
 ## **📚 Concepts Learned**
 
